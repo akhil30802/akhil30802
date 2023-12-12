@@ -16,9 +16,9 @@ As a driven and passionate Computer Science undergraduate, my focus lies in acqu
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akhil30802&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil30802&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+<!--
 [![](https://visitcount.itsvg.in/api?id=akhil30802&icon=4&color=3)](https://visitcount.itsvg.in)
-
+-->
 <!--
 **akhil30802/akhil30802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
