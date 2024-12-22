@@ -1,6 +1,6 @@
 # Hello! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 
-As a driven and passionate Computer Science undergraduate, my focus lies in acquiring a comprehensive understanding of algorithms, computational complexity, statistics, and machine learning. Passionate about analyzing real-world data to extract insights, identify trends and optimize experiences. Committed to solving complex challenges through data-driven solutions.
+Motivated fresher pursuing a Bachelor's degree in Computer Science Engineering and a passion for data-driven insights. Hands-on experience in data analysis, visualization, and machine learning. Proficient in Python, SQL, Excel, Power BI, and Tableau. Eager to leverage analytical skills to drive data-driven insights and business growth.
  
 - 🌱 I’m currently involving myself into the world of analytics and practicing to portray my data insights.
 - 👯 I’m looking to collaborate on exciting projects
