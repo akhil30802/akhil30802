@@ -26,7 +26,7 @@ stack = {
 
 ## A few things I've shipped
 
-- ⚡ Kafka pipeline processing **2M+ daily events** with sub-5-min latency
+- ⚡ Kafka pipeline processing **2M+ daily events** with sub-5-sec latency
 - 🔒 Marketing automation platform cutting manual effort by **~90%**
 - 🛠️ Binlog recovery service — **zero data loss** during a production outage
 - ☁️ AWS → GCP warehouse migration with **zero downtime**
