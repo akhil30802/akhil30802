@@ -1,4 +1,4 @@
-# Hey, I'm Akhil 👋
+# Hey, I'm Akhil <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNm92YWdtYWkwc3p0d2dsNTVtZGlidzA4YWJxdTRpajF6cTB0bmpvZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RNW53EATmwSa796Wmf/giphy.gif" width="60">
 
 I'm a Data Engineer based in Mumbai. I like building things that make
 working with data a little easier, a little faster, and hopefully a lot
