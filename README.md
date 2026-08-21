@@ -1,49 +1,56 @@
-# Hello! Akhil this side <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
+# Hey, I'm Akhil 👋
 
-I'm a Data Engineer based in Mumbai who builds the infrastructure
-that keeps data moving — reliably, at scale, and without waking
-anyone up at 3am.
+I'm a Data Engineer based in Mumbai. I like building things that make
+working with data a little easier, a little faster, and hopefully a lot
+less painful.
 
-Currently at **Shaadi.com**, where I work on real-time event
-pipelines, cloud data warehouses, and automation systems that
-quietly power decisions for millions of users.
+Currently at **Shaadi.com**, where I work on data pipelines, event
+processing, cloud data warehouses, and internal tools that support
+millions of users.
+
+I enjoy understanding how systems work, fixing things when they don't,
+and learning something new along the way.
 
 ---
 
-## What I'm working with
+## Things I work with
+
 ```python
 stack = {
-    "languages"  : ["Python", "SQL", "Go"],
-    "pipelines"  : ["Apache Kafka", "Apache Airflow", "ETL/ELT"],
-    "warehouses" : ["BigQuery", "Redshift", "MySQL"],
-    "cloud"      : ["AWS", "GCP"],
-    "monitoring" : ["Datadog", "Grafana", "SigNoz"],
-    "tools"      : ["Docker", "Git", "Binlog/CDC"],
+    "languages": ["Python", "SQL", "Go"],
+    "data": ["Kafka", "Airflow", "ETL/ELT", "Redshift", "BigQuery"],
+    "databases": ["MySQL", "Redis", "Elasticsearch"],
+    "cloud": ["AWS", "GCP"],
+    "observability": ["Datadog", "Grafana", "SigNoz"],
+    "tools": ["Docker", "Git", "CDC / Binlog"],
 }
 ```
 
 ---
 
-## A few things I've shipped
+## A few things I've built
 
-- ⚡ Kafka pipeline processing **2M+ daily events** with sub-5-sec latency
-- 🔒 Marketing automation platform cutting manual effort by **~90%**
-- 🛠️ Binlog recovery service — **zero data loss** during a production outage
-- ☁️ AWS → GCP warehouse migration with **zero downtime**
-- 🗑️ Parallelised data cleanup system with **10× throughput** improvement
-
----
-
-## What drives me
-
-I like systems that recover gracefully, pipelines you can actually
-debug at midnight, and code the next engineer won't curse you for.
-Always learning, always shipping.
+* ⚡ Real-time Kafka pipelines processing **37M+ events/day**
+* 🔄 Incremental ETL systems handling **3,500+ tables/hour**
+* 🛠️ A binlog recovery service that helped recover production data with **zero data loss**
+* ☁️ An **AWS → GCP** data warehouse migration with zero downtime
+* 🧹 A parallelised data cleanup system processing **1M+ records/day**
+* 🤝 A marketing automation platform that reduced manual effort by **~90%**
 
 ---
 
-## Let's connect
+## Outside of work
 
-📍 Mumbai &nbsp;|&nbsp;
-💼 [LinkedIn](https://linkedin.com/in/akhilsahu30) &nbsp;|&nbsp;
-📬 akhil.sahu30@gmail.com
+I'm usually somewhere between learning something new, building a
+side project, reading about systems, or wondering why a perfectly good
+query suddenly became slow.
+
+Still figuring things out. Still learning. That's the fun part.
+
+---
+
+## Say hi :)
+
+📍 Mumbai, India
+💼 [LinkedIn](https://linkedin.com/in/akhilsahu30)
+📬 [akhil.sahu30@gmail.com](mailto:akhil.sahu30@gmail.com)
